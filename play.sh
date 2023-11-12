@@ -11,7 +11,7 @@ function isValid {
 }
 
 # Request input
-echo "Hello!"
+echo "Hello!2"
 echo "Enter a number between 0 and 255 to be used as the exit code: "
 read input
 
